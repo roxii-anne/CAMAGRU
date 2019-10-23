@@ -1,0 +1,17 @@
+.booth 
+{
+        width: 400px;
+        background-color: gray;
+        border:10px solid black;
+        margin:0 auto;  
+        
+}
+.booth-capture-button
+{
+        display:block;
+        margin:10px 20px;
+        background-color: lightblue;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+}
